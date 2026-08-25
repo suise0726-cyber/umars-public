@@ -1,6 +1,6 @@
 {
   "schema": "UMARS_RACE_V1",
-  "generatedAt": "2026-08-25T12:12:04+09:00",
+  "generatedAt": "2026-08-25T13:06:58+09:00",
   "sources": {
     "note": "既存historical予測経路・説明能力指数・JRA-VAN SE確定結果から生成した閲覧専用データ"
   },
@@ -40,6 +40,29 @@
           "distanceN": 14.016,
           "courseN": 4.2
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 2,
+        "nige": 14,
+        "senko": 14,
+        "sashi": 66,
+        "oikomi": 6,
+        "historyMaxDate": 20260809,
+        "sourceRaces": [
+          {
+            "raceId": "2026080901010608",
+            "corner": 10,
+            "fieldSize": 14,
+            "weight": 0.714286
+          },
+          {
+            "raceId": "2026052404010812",
+            "corner": 3,
+            "fieldSize": 13,
+            "weight": 0.285714
+          }
+        ]
       }
     },
     {
@@ -64,6 +87,35 @@
           "distanceN": 7.962,
           "courseN": 0
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 0,
+        "senko": 38,
+        "sashi": 30,
+        "oikomi": 32,
+        "historyMaxDate": 20260509,
+        "sourceRaces": [
+          {
+            "raceId": "2026050908030512",
+            "corner": 6,
+            "fieldSize": 13,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026041809020709",
+            "corner": 13,
+            "fieldSize": 14,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026032454190303",
+            "corner": 10,
+            "fieldSize": 12,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -88,6 +140,35 @@
           "distanceN": 11.962,
           "courseN": 1.8
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 100,
+        "senko": 0,
+        "sashi": 0,
+        "oikomi": 0,
+        "historyMaxDate": 20260725,
+        "sourceRaces": [
+          {
+            "raceId": "2026072501010112",
+            "corner": 1,
+            "fieldSize": 11,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026062703020110",
+            "corner": 1,
+            "fieldSize": 11,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026050904010312",
+            "corner": 1,
+            "fieldSize": 12,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -112,6 +193,35 @@
           "distanceN": 4.38,
           "courseN": 1
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 0,
+        "senko": 17,
+        "sashi": 77,
+        "oikomi": 6,
+        "historyMaxDate": 20260802,
+        "sourceRaces": [
+          {
+            "raceId": "2026080201010406",
+            "corner": 6,
+            "fieldSize": 10,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026030109010404",
+            "corner": 6,
+            "fieldSize": 8,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026013108020107",
+            "corner": 8,
+            "fieldSize": 11,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -136,6 +246,35 @@
           "distanceN": 2.433,
           "courseN": 0
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 0,
+        "senko": 0,
+        "sashi": 78,
+        "oikomi": 22,
+        "historyMaxDate": 20260524,
+        "sourceRaces": [
+          {
+            "raceId": "2026052405021008",
+            "corner": 12,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026050905020512",
+            "corner": 12,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026030345130211",
+            "corner": 11,
+            "fieldSize": 14,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -160,6 +299,35 @@
           "distanceN": 10.583,
           "courseN": 2.4
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 25,
+        "senko": 55,
+        "sashi": 20,
+        "oikomi": 0,
+        "historyMaxDate": 20260705,
+        "sourceRaces": [
+          {
+            "raceId": "2026070510020410",
+            "corner": 8,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026061409030408",
+            "corner": 2,
+            "fieldSize": 9,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026041909020812",
+            "corner": 3,
+            "fieldSize": 10,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -184,6 +352,35 @@
           "distanceN": 14.38,
           "courseN": 0
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 28,
+        "senko": 22,
+        "sashi": 46,
+        "oikomi": 4,
+        "historyMaxDate": 20260704,
+        "sourceRaces": [
+          {
+            "raceId": "2026070402010710",
+            "corner": 10,
+            "fieldSize": 14,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026062102010410",
+            "corner": 3,
+            "fieldSize": 9,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026041803010311",
+            "corner": 1,
+            "fieldSize": 15,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -208,6 +405,35 @@
           "distanceN": 3,
           "courseN": 1
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 11,
+        "senko": 23,
+        "sashi": 60,
+        "oikomi": 6,
+        "historyMaxDate": 20260801,
+        "sourceRaces": [
+          {
+            "raceId": "2026080101010312",
+            "corner": 5,
+            "fieldSize": 8,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026061302010112",
+            "corner": 9,
+            "fieldSize": 12,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026042503010508",
+            "corner": 3,
+            "fieldSize": 15,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -232,6 +458,35 @@
           "distanceN": 3,
           "courseN": 0
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 13,
+        "senko": 87,
+        "sashi": 0,
+        "oikomi": 0,
+        "historyMaxDate": 20260712,
+        "sourceRaces": [
+          {
+            "raceId": "2026071202011007",
+            "corner": 3,
+            "fieldSize": 9,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026062802010607",
+            "corner": 4,
+            "fieldSize": 10,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026050908030508",
+            "corner": 6,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -256,6 +511,35 @@
           "distanceN": 11.15,
           "courseN": 4.2
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 16,
+        "senko": 19,
+        "sashi": 61,
+        "oikomi": 4,
+        "historyMaxDate": 20260801,
+        "sourceRaces": [
+          {
+            "raceId": "2026080101010312",
+            "corner": 5,
+            "fieldSize": 8,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026042603010610",
+            "corner": 11,
+            "fieldSize": 15,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026041203010207",
+            "corner": 2,
+            "fieldSize": 15,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -280,6 +564,35 @@
           "distanceN": 4.866,
           "courseN": 0
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 80,
+        "senko": 20,
+        "sashi": 0,
+        "oikomi": 0,
+        "historyMaxDate": 20260705,
+        "sourceRaces": [
+          {
+            "raceId": "2026070502010808",
+            "corner": 1,
+            "fieldSize": 8,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026061402010212",
+            "corner": 3,
+            "fieldSize": 10,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026040406030302",
+            "corner": 1,
+            "fieldSize": 14,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -304,6 +617,35 @@
           "distanceN": 5,
           "courseN": 1.8
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 5,
+        "senko": 45,
+        "sashi": 21,
+        "oikomi": 29,
+        "historyMaxDate": 20260725,
+        "sourceRaces": [
+          {
+            "raceId": "2026072501010112",
+            "corner": 4,
+            "fieldSize": 11,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026041203010210",
+            "corner": 14,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2025101208030409",
+            "corner": 12,
+            "fieldSize": 14,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -328,6 +670,35 @@
           "distanceN": 3.15,
           "courseN": 0
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 27,
+        "senko": 43,
+        "sashi": 30,
+        "oikomi": 0,
+        "historyMaxDate": 20251220,
+        "sourceRaces": [
+          {
+            "raceId": "2025122007050510",
+            "corner": 9,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2025112305050508",
+            "corner": 4,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2025110205041112",
+            "corner": 2,
+            "fieldSize": 13,
+            "weight": 0.2
+          }
+        ]
       }
     },
     {
@@ -352,6 +723,35 @@
           "distanceN": 2.717,
           "courseN": 1
         }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 27,
+        "senko": 54,
+        "sashi": 19,
+        "oikomi": 0,
+        "historyMaxDate": 20260809,
+        "sourceRaces": [
+          {
+            "raceId": "2026080901010610",
+            "corner": 7,
+            "fieldSize": 14,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026071803020710",
+            "corner": 2,
+            "fieldSize": 15,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2024101405040409",
+            "corner": 3,
+            "fieldSize": 8,
+            "weight": 0.2
+          }
+        ]
       }
     }
   ],
@@ -438,6 +838,15 @@
   ],
   "marketKind": "JRA_VAN_SE_CONFIRMED_RESULT",
   "marketSource": "JRA-VAN SE確定結果（odds / ninki）",
+  "paceTendency": {
+    "slow": 30,
+    "middle": 41,
+    "high": 29,
+    "pressure": 7.83,
+    "coverage": 1,
+    "band": "Q3",
+    "calibrationRaces": 409
+  },
   "results": [
     {
       "no": 13,
@@ -545,5 +954,5 @@
   "payoutKind": "JRA_VAN_HR_CONFIRMED_PAYOUT_PER_100_YEN",
   "payoutSource": "JRA-VAN HR確定払戻（100円あたり）",
   "verdict": "難",
-  "updatedAt": "2026-08-25T12:12:04+09:00"
+  "updatedAt": "2026-08-25T13:06:58+09:00"
 }
