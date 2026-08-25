@@ -1,0 +1,559 @@
+{
+  "schema": "UMARS_RACE_V1",
+  "generatedAt": "2026-08-25T10:16:00+09:00",
+  "sources": {
+    "note": "既存historical予測経路・説明能力指数・JRA-VAN SE確定結果から生成した閲覧専用データ"
+  },
+  "race": {
+    "raceId": "2026080807020512",
+    "date": "2026-08-08",
+    "venue": "中京",
+    "raceNo": 12,
+    "name": "12R",
+    "grade": "",
+    "surface": "芝",
+    "distance": 1400,
+    "going": "良",
+    "postTime": "18:30",
+    "fieldSize": 18
+  },
+  "horses": [
+    {
+      "frame": 1,
+      "no": 1,
+      "name": "ウイングサンライズ",
+      "kettonum": "2023100918",
+      "age": 3,
+      "jockey": "丸山元気",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1713941894447309,
+        "show": 0.2247413603345806
+      },
+      "ability": {
+        "recent3": 49.7,
+        "distance": 23.1,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 0.513,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 1,
+      "no": 2,
+      "name": "ティグリス",
+      "kettonum": "2023104994",
+      "age": 3,
+      "jockey": "幸英明",
+      "futan": null,
+      "ai": {
+        "win": 0.082853252330575,
+        "quinella": 0.1102700259857643,
+        "show": 0.1729804532087874
+      },
+      "ability": {
+        "recent3": 66.3,
+        "distance": 46.8,
+        "course": 33.3,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 1.027,
+          "courseN": 0.359
+        }
+      }
+    },
+    {
+      "frame": 2,
+      "no": 3,
+      "name": "マスティカーレ",
+      "kettonum": "2023103629",
+      "age": 3,
+      "jockey": "田口貫太",
+      "futan": null,
+      "ai": {
+        "win": 0.082853252330575,
+        "quinella": 0.1102700259857643,
+        "show": 0.2685552407932012
+      },
+      "ability": {
+        "recent3": 28.4,
+        "distance": 60.8,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 2.027,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 2,
+      "no": 4,
+      "name": "バルフルール",
+      "kettonum": "2023106909",
+      "age": 3,
+      "jockey": "角田大和",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1102700259857643,
+        "show": 0.1106831022085259
+      },
+      "ability": {
+        "recent3": 42.9,
+        "distance": 32.6,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 2,
+          "distanceN": 1.513,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 3,
+      "no": 5,
+      "name": "ルナフィオーレ",
+      "kettonum": "2023104520",
+      "age": 3,
+      "jockey": "川田将雅",
+      "futan": null,
+      "ai": {
+        "win": 0.2185135736537605,
+        "quinella": 0.2654297614539947,
+        "show": 0.3926426426426426
+      },
+      "ability": {
+        "recent3": 85.4,
+        "distance": 40.4,
+        "course": 18,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 3.054,
+          "courseN": 0.359
+        }
+      }
+    },
+    {
+      "frame": 3,
+      "no": 6,
+      "name": "ペスキエーラ",
+      "kettonum": "2023107311",
+      "age": 3,
+      "jockey": "団野大成",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.1729804532087874
+      },
+      "ability": {
+        "recent3": 5.4,
+        "distance": 16.1,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 0.513,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 4,
+      "no": 7,
+      "name": "エコロディアン",
+      "kettonum": "2023107273",
+      "age": 3,
+      "jockey": "Ｍ．デム",
+      "futan": null,
+      "ai": {
+        "win": 0.1417777777777777,
+        "quinella": 0.1713941894447309,
+        "show": 0.2685552407932012
+      },
+      "ability": {
+        "recent3": 56.8,
+        "distance": 50,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 2,
+          "distanceN": 0,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 4,
+      "no": 8,
+      "name": "ルージュマデイラ",
+      "kettonum": "2023102228",
+      "age": 3,
+      "jockey": "富田暁",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1102700259857643,
+        "show": 0.1729804532087874
+      },
+      "ability": {
+        "recent3": 35.6,
+        "distance": 50,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 2,
+          "distanceN": 0,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 5,
+      "no": 9,
+      "name": "ルージュシャラポワ",
+      "kettonum": "2023103442",
+      "age": 3,
+      "jockey": "川端海翼",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.0423121387283237
+      },
+      "ability": {
+        "recent3": 9.5,
+        "distance": 50,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 0,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 5,
+      "no": 10,
+      "name": "ココロザスノ",
+      "kettonum": "2023102952",
+      "age": 3,
+      "jockey": "酒井学",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.1106831022085259
+      },
+      "ability": {
+        "recent3": 38.1,
+        "distance": 50,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 0,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 6,
+      "no": 11,
+      "name": "フェブリノ",
+      "kettonum": "2023104075",
+      "age": 3,
+      "jockey": "松若風馬",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.1729804532087874
+      },
+      "ability": {
+        "recent3": 42.1,
+        "distance": 27.4,
+        "course": 18.4,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 3.027,
+          "courseN": 0.8
+        }
+      }
+    },
+    {
+      "frame": 6,
+      "no": 12,
+      "name": "グレンセロース",
+      "kettonum": "2023103794",
+      "age": 3,
+      "jockey": "吉村誠之",
+      "futan": null,
+      "ai": {
+        "win": 0.1417777777777777,
+        "quinella": 0.2284196547144754,
+        "show": 0.3202406227883935
+      },
+      "ability": {
+        "recent3": 88,
+        "distance": 44.3,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 1.027,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 7,
+      "no": 13,
+      "name": "タガノプトゥリ",
+      "kettonum": "2023104321",
+      "age": 3,
+      "jockey": "藤懸貴志",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.1106831022085259
+      },
+      "ability": {
+        "recent3": 16.2,
+        "distance": 50,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 0,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 7,
+      "no": 14,
+      "name": "ミヤジマミコ",
+      "kettonum": "2023106010",
+      "age": 3,
+      "jockey": "永島まな",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.0423121387283237
+      },
+      "ability": {
+        "recent3": 7.2,
+        "distance": 50,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 1,
+          "distanceN": 0,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 7,
+      "no": 15,
+      "name": "ゴッドアイ",
+      "kettonum": "2023105352",
+      "age": 3,
+      "jockey": "コレット",
+      "futan": null,
+      "ai": {
+        "win": 0.1417777777777777,
+        "quinella": 0.3385915492957746,
+        "show": 0.3926426426426426
+      },
+      "ability": {
+        "recent3": 74.5,
+        "distance": 87.3,
+        "course": 68.5,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 4,
+          "courseN": 0.8
+        }
+      }
+    },
+    {
+      "frame": 8,
+      "no": 16,
+      "name": "ハッピーリオン",
+      "kettonum": "2023101899",
+      "age": 3,
+      "jockey": "太宰啓介",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1102700259857643,
+        "show": 0.1729804532087874
+      },
+      "ability": {
+        "recent3": 45.6,
+        "distance": 50,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 0,
+          "courseN": 0
+        }
+      }
+    },
+    {
+      "frame": 8,
+      "no": 17,
+      "name": "グッデイ",
+      "kettonum": "2023106988",
+      "age": 3,
+      "jockey": "秋山稔樹",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1102700259857643,
+        "show": 0.1729804532087874
+      },
+      "ability": {
+        "recent3": 46.9,
+        "distance": 25.1,
+        "course": 21.4,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 2.054,
+          "courseN": 0.359
+        }
+      }
+    },
+    {
+      "frame": 8,
+      "no": 18,
+      "name": "スターアスコット",
+      "kettonum": "2023100130",
+      "age": 3,
+      "jockey": "柴田裕一",
+      "futan": null,
+      "ai": {
+        "win": 0.082853252330575,
+        "quinella": 0.1713941894447309,
+        "show": 0.2247413603345806
+      },
+      "ability": {
+        "recent3": 65.6,
+        "distance": 44.3,
+        "course": 21.5,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 1.513,
+          "courseN": 0.359
+        }
+      }
+    }
+  ],
+  "join": {
+    "runners": 18,
+    "aiMatched": 18,
+    "aiMissing": [],
+    "abilityMatched": 18,
+    "abilityMissing": [],
+    "kettonumConflicts": []
+  },
+  "marketConnected": true,
+  "market": [
+    {
+      "no": 1,
+      "popularity": 8,
+      "odds": 26.1
+    },
+    {
+      "no": 2,
+      "popularity": 7,
+      "odds": 14.3
+    },
+    {
+      "no": 3,
+      "popularity": 5,
+      "odds": 12.4
+    },
+    {
+      "no": 4,
+      "popularity": 12,
+      "odds": 41.2
+    },
+    {
+      "no": 5,
+      "popularity": 4,
+      "odds": 6.7
+    },
+    {
+      "no": 6,
+      "popularity": 15,
+      "odds": 69.5
+    },
+    {
+      "no": 7,
+      "popularity": 2,
+      "odds": 5
+    },
+    {
+      "no": 8,
+      "popularity": 14,
+      "odds": 69.1
+    },
+    {
+      "no": 9,
+      "popularity": 18,
+      "odds": 302
+    },
+    {
+      "no": 10,
+      "popularity": 11,
+      "odds": 38.8
+    },
+    {
+      "no": 11,
+      "popularity": 9,
+      "odds": 26.8
+    },
+    {
+      "no": 12,
+      "popularity": 3,
+      "odds": 5.4
+    },
+    {
+      "no": 13,
+      "popularity": 16,
+      "odds": 245.3
+    },
+    {
+      "no": 14,
+      "popularity": 17,
+      "odds": 286.2
+    },
+    {
+      "no": 15,
+      "popularity": 1,
+      "odds": 3.5
+    },
+    {
+      "no": 16,
+      "popularity": 10,
+      "odds": 31.7
+    },
+    {
+      "no": 17,
+      "popularity": 13,
+      "odds": 68.5
+    },
+    {
+      "no": 18,
+      "popularity": 6,
+      "odds": 13.3
+    }
+  ],
+  "marketKind": "JRA_VAN_SE_CONFIRMED_RESULT",
+  "marketSource": "JRA-VAN SE確定結果（odds / ninki）",
+  "verdict": "難",
+  "updatedAt": "2026-08-25T10:16:00+09:00"
+}
