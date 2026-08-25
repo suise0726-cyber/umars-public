@@ -1,6 +1,6 @@
 {
   "schema": "UMARS_RACE_V1",
-  "generatedAt": "2026-08-25T10:16:39+09:00",
+  "generatedAt": "2026-08-25T12:11:43+09:00",
   "sources": {
     "note": "既存historical予測経路・説明能力指数・JRA-VAN SE確定結果から生成した閲覧専用データ"
   },
@@ -554,6 +554,128 @@
   ],
   "marketKind": "JRA_VAN_SE_CONFIRMED_RESULT",
   "marketSource": "JRA-VAN SE確定結果（odds / ninki）",
+  "results": [
+    {
+      "no": 4,
+      "finish": 1
+    },
+    {
+      "no": 13,
+      "finish": 2
+    },
+    {
+      "no": 5,
+      "finish": 3
+    },
+    {
+      "no": 8,
+      "finish": 4
+    },
+    {
+      "no": 17,
+      "finish": 5
+    },
+    {
+      "no": 10,
+      "finish": 6
+    },
+    {
+      "no": 1,
+      "finish": 7
+    },
+    {
+      "no": 18,
+      "finish": 8
+    },
+    {
+      "no": 9,
+      "finish": 9
+    },
+    {
+      "no": 12,
+      "finish": 10
+    },
+    {
+      "no": 3,
+      "finish": 11
+    },
+    {
+      "no": 15,
+      "finish": 12
+    },
+    {
+      "no": 14,
+      "finish": 13
+    },
+    {
+      "no": 11,
+      "finish": 14
+    },
+    {
+      "no": 6,
+      "finish": 15
+    },
+    {
+      "no": 7,
+      "finish": 16
+    },
+    {
+      "no": 2,
+      "finish": 17
+    },
+    {
+      "no": 16,
+      "finish": 18
+    }
+  ],
+  "resultKind": "JRA_VAN_SE_CONFIRMED_RESULT",
+  "resultSource": "JRA-VAN SE確定結果（chakujun）",
+  "payouts": [
+    {
+      "betType": "単勝",
+      "combination": "4",
+      "payoutYen": 1070,
+      "popularity": 4
+    },
+    {
+      "betType": "複勝",
+      "combination": "4",
+      "payoutYen": 320,
+      "popularity": 5
+    },
+    {
+      "betType": "複勝",
+      "combination": "13",
+      "payoutYen": 170,
+      "popularity": 2
+    },
+    {
+      "betType": "複勝",
+      "combination": "5",
+      "payoutYen": 420,
+      "popularity": 9
+    },
+    {
+      "betType": "馬連",
+      "combination": "4-13",
+      "payoutYen": 2630,
+      "popularity": null
+    },
+    {
+      "betType": "3連複",
+      "combination": "4-5-13",
+      "payoutYen": 12200,
+      "popularity": 45
+    },
+    {
+      "betType": "3連単",
+      "combination": "4-13-5",
+      "payoutYen": 93620,
+      "popularity": 306
+    }
+  ],
+  "payoutKind": "JRA_VAN_HR_CONFIRMED_PAYOUT_PER_100_YEN",
+  "payoutSource": "JRA-VAN HR確定払戻（100円あたり）",
   "verdict": "爆",
-  "updatedAt": "2026-08-25T10:16:39+09:00"
+  "updatedAt": "2026-08-25T12:11:43+09:00"
 }
