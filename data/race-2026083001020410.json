@@ -1,0 +1,969 @@
+{
+  "schema": "UMARS_RACE_V1",
+  "generatedAt": "2026-08-30T11:25:55+09:00",
+  "sources": {
+    "note": "既存の本番AI予測・説明能力指数・strict-prior脚質展開・JRA-VAN発走前市場から生成した閲覧専用データ"
+  },
+  "race": {
+    "raceId": "2026083001020410",
+    "date": "2026-08-30",
+    "venue": "札幌",
+    "raceNo": 10,
+    "name": "HBC賞",
+    "grade": "",
+    "surface": "芝",
+    "distance": 1200,
+    "going": "良",
+    "postTime": null,
+    "fieldSize": 16
+  },
+  "horses": [
+    {
+      "frame": 1,
+      "no": 1,
+      "name": "カガラプンツェル",
+      "kettonum": "2023103036",
+      "age": 3,
+      "jockey": "原田和",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1102700259857643,
+        "show": 0.1729804532087874
+      },
+      "ability": {
+        "recent3": 90.3,
+        "distance": 52.2,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 5,
+          "courseN": 0
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 87,
+        "senko": 13,
+        "sashi": 0,
+        "oikomi": 0,
+        "historyMaxDate": 20260801,
+        "sourceRaces": [
+          {
+            "raceId": "2026080104020312",
+            "corner": 2,
+            "fieldSize": 17,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026070403020312",
+            "corner": 1,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026061402010201",
+            "corner": 2,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 1,
+      "no": 2,
+      "name": "ショウナンカリス",
+      "kettonum": "2023105347",
+      "age": 3,
+      "jockey": "吉田隼",
+      "futan": null,
+      "ai": {
+        "win": 0.1417777777777777,
+        "quinella": 0.1713941894447309,
+        "show": 0.2685552407932012
+      },
+      "ability": {
+        "recent3": 27.4,
+        "distance": 84.4,
+        "course": 90.1,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 6,
+          "courseN": 1.6
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 0,
+        "senko": 49,
+        "sashi": 43,
+        "oikomi": 8,
+        "historyMaxDate": 20260726,
+        "sourceRaces": [
+          {
+            "raceId": "2026072601010210",
+            "corner": 5,
+            "fieldSize": 9,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026070502010809",
+            "corner": 7,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026053008031111",
+            "corner": 13,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 2,
+      "no": 3,
+      "name": "バシレウスシチー",
+      "kettonum": "2019101643",
+      "age": 7,
+      "jockey": "小沢",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.1106831022085259
+      },
+      "ability": {
+        "recent3": 52.8,
+        "distance": 67.4,
+        "course": 79.8,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 21,
+          "courseN": 2.6
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 25,
+        "senko": 67,
+        "sashi": 8,
+        "oikomi": 0,
+        "historyMaxDate": 20260802,
+        "sourceRaces": [
+          {
+            "raceId": "2026080201010412",
+            "corner": 6,
+            "fieldSize": 14,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026071802011110",
+            "corner": 3,
+            "fieldSize": 10,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026061409030409",
+            "corner": 2,
+            "fieldSize": 13,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 2,
+      "no": 4,
+      "name": "ルージュベルベット",
+      "kettonum": "2021105749",
+      "age": 5,
+      "jockey": "浜中",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1102700259857643,
+        "show": 0.2247413603345806
+      },
+      "ability": {
+        "recent3": 96.8,
+        "distance": 94.8,
+        "course": 89.3,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 3,
+          "courseN": 1
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 46,
+        "senko": 51,
+        "sashi": 3,
+        "oikomi": 0,
+        "historyMaxDate": 20260809,
+        "sourceRaces": [
+          {
+            "raceId": "2026080901010609",
+            "corner": 3,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026071802011112",
+            "corner": 5,
+            "fieldSize": 12,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026052404010808",
+            "corner": 2,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 3,
+      "no": 5,
+      "name": "スイミーユニバンス",
+      "kettonum": "2020103632",
+      "age": 6,
+      "jockey": "鮫島駿",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.1106831022085259
+      },
+      "ability": {
+        "recent3": 46.4,
+        "distance": 59.7,
+        "course": 72.6,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 15,
+          "courseN": 4.2
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 0,
+        "senko": 0,
+        "sashi": 26,
+        "oikomi": 74,
+        "historyMaxDate": 20260802,
+        "sourceRaces": [
+          {
+            "raceId": "2026080201010412",
+            "corner": 13,
+            "fieldSize": 14,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026070502010809",
+            "corner": 15,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026062002010311",
+            "corner": 14,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 3,
+      "no": 6,
+      "name": "コックオーヴァン",
+      "kettonum": "2023106405",
+      "age": 3,
+      "jockey": "遠藤",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1713941894447309,
+        "show": 0.2247413603345806
+      },
+      "ability": {
+        "recent3": 85.1,
+        "distance": 56.2,
+        "course": 39.7,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 6,
+          "courseN": 1
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 28,
+        "senko": 22,
+        "sashi": 10,
+        "oikomi": 40,
+        "historyMaxDate": 20260815,
+        "sourceRaces": [
+          {
+            "raceId": "2026081501010710",
+            "corner": 15,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026071803020708",
+            "corner": 2,
+            "fieldSize": 15,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026062703020112",
+            "corner": 5,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 4,
+      "no": 7,
+      "name": "セイウンデセオ",
+      "kettonum": "2021100248",
+      "age": 5,
+      "jockey": "武豊",
+      "futan": null,
+      "ai": {
+        "win": 0.082853252330575,
+        "quinella": 0.1102700259857643,
+        "show": 0.1729804532087874
+      },
+      "ability": {
+        "recent3": 94.3,
+        "distance": 90.8,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 15,
+          "courseN": 0
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 0,
+        "senko": 38,
+        "sashi": 50,
+        "oikomi": 12,
+        "historyMaxDate": 20260719,
+        "sourceRaces": [
+          {
+            "raceId": "2026071903020809",
+            "corner": 8,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026070503020409",
+            "corner": 13,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026042503010510",
+            "corner": 9,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 4,
+      "no": 8,
+      "name": "ムチャスグラシアス",
+      "kettonum": "2021104217",
+      "age": 5,
+      "jockey": "佐藤",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.0423121387283237
+      },
+      "ability": {
+        "recent3": 34.4,
+        "distance": 35.6,
+        "course": 41.7,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 17,
+          "courseN": 3.4
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 11,
+        "senko": 29,
+        "sashi": 50,
+        "oikomi": 10,
+        "historyMaxDate": 20260815,
+        "sourceRaces": [
+          {
+            "raceId": "2026081501010710",
+            "corner": 9,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026071802011110",
+            "corner": 8,
+            "fieldSize": 10,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026071102010910",
+            "corner": 3,
+            "fieldSize": 14,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 5,
+      "no": 9,
+      "name": "プレセピオ",
+      "kettonum": "2023103503",
+      "age": 3,
+      "jockey": "川又",
+      "futan": null,
+      "ai": {
+        "win": 0.2185135736537605,
+        "quinella": 0.3385915492957746,
+        "show": 0.3926426426426426
+      },
+      "ability": {
+        "recent3": 38.1,
+        "distance": 37.5,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 2,
+          "courseN": 0
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 45,
+        "senko": 35,
+        "sashi": 8,
+        "oikomi": 12,
+        "historyMaxDate": 20260412,
+        "sourceRaces": [
+          {
+            "raceId": "2026041209020611",
+            "corner": 2,
+            "fieldSize": 18,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026030709010511",
+            "corner": 6,
+            "fieldSize": 18,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026011708010610",
+            "corner": 8,
+            "fieldSize": 9,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 5,
+      "no": 10,
+      "name": "ララバニュルス",
+      "kettonum": "2022101405",
+      "age": 4,
+      "jockey": "藤懸",
+      "futan": null,
+      "ai": {
+        "win": 0.082853252330575,
+        "quinella": 0.1713941894447309,
+        "show": 0.2247413603345806
+      },
+      "ability": {
+        "recent3": 95.3,
+        "distance": 92.3,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 5,
+          "courseN": 0
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 39,
+        "senko": 61,
+        "sashi": 0,
+        "oikomi": 0,
+        "historyMaxDate": 20260705,
+        "sourceRaces": [
+          {
+            "raceId": "2026070502010812",
+            "corner": 3,
+            "fieldSize": 10,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026062702010509",
+            "corner": 2,
+            "fieldSize": 9,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026041903010409",
+            "corner": 5,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 6,
+      "no": 11,
+      "name": "ファビュラススター",
+      "kettonum": "2021103478",
+      "age": 5,
+      "jockey": "丹内",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.1106831022085259
+      },
+      "ability": {
+        "recent3": 69,
+        "distance": 76.9,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 4,
+          "courseN": 0
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 0,
+        "senko": 30,
+        "sashi": 36,
+        "oikomi": 34,
+        "historyMaxDate": 20260719,
+        "sourceRaces": [
+          {
+            "raceId": "2026071903020809",
+            "corner": 8,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2025120606050112",
+            "corner": 12,
+            "fieldSize": 13,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2025092706040810",
+            "corner": 14,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 6,
+      "no": 12,
+      "name": "デンプシー",
+      "kettonum": "2023106190",
+      "age": 3,
+      "jockey": "横山和",
+      "futan": null,
+      "ai": {
+        "win": 0.082853252330575,
+        "quinella": 0.1102700259857643,
+        "show": 0.2247413603345806
+      },
+      "ability": {
+        "recent3": 98,
+        "distance": 98,
+        "course": 89.6,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 4,
+          "courseN": 1
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 33,
+        "senko": 25,
+        "sashi": 42,
+        "oikomi": 0,
+        "historyMaxDate": 20260802,
+        "sourceRaces": [
+          {
+            "raceId": "2026080201010412",
+            "corner": 9,
+            "fieldSize": 14,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026071203020608",
+            "corner": 2,
+            "fieldSize": 12,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026050904010309",
+            "corner": 3,
+            "fieldSize": 14,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 7,
+      "no": 13,
+      "name": "フミサウンド",
+      "kettonum": "2020103218",
+      "age": 6,
+      "jockey": "大野",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.1106831022085259
+      },
+      "ability": {
+        "recent3": 35.4,
+        "distance": 39.7,
+        "course": 64.4,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 12,
+          "courseN": 2.4
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 8,
+        "senko": 47,
+        "sashi": 45,
+        "oikomi": 0,
+        "historyMaxDate": 20260718,
+        "sourceRaces": [
+          {
+            "raceId": "2026071802011110",
+            "corner": 6,
+            "fieldSize": 10,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026061402010211",
+            "corner": 8,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026052305020910",
+            "corner": 4,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 7,
+      "no": 14,
+      "name": "ホウオウブースター",
+      "kettonum": "2022104637",
+      "age": 4,
+      "jockey": "石川倭",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.0416162131157988,
+        "show": 0.0423121387283237
+      },
+      "ability": {
+        "recent3": 52.3,
+        "distance": 76.6,
+        "course": 50,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 10,
+          "courseN": 0
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 32,
+        "senko": 18,
+        "sashi": 50,
+        "oikomi": 0,
+        "historyMaxDate": 20260705,
+        "sourceRaces": [
+          {
+            "raceId": "2026070503020409",
+            "corner": 11,
+            "fieldSize": 16,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026052305020910",
+            "corner": 2,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026041103010110",
+            "corner": 4,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "frame": 8,
+      "no": 15,
+      "name": "シーグルロス",
+      "kettonum": "2023100214",
+      "age": 3,
+      "jockey": "小林美",
+      "futan": null,
+      "ai": {
+        "win": 0.082853252330575,
+        "quinella": 0.2284196547144754,
+        "show": 0.2685552407932012
+      },
+      "ability": {
+        "recent3": 79.1,
+        "distance": 51.9,
+        "course": 49.6,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 7.513,
+          "courseN": 0.8
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 2,
+        "nige": 86,
+        "senko": 14,
+        "sashi": 0,
+        "oikomi": 0,
+        "historyMaxDate": 20260628,
+        "sourceRaces": [
+          {
+            "raceId": "2026062802010612",
+            "corner": 2,
+            "fieldSize": 14,
+            "weight": 0.625
+          },
+          {
+            "raceId": "2026061402010208",
+            "corner": 1,
+            "fieldSize": 13,
+            "weight": 0.375
+          }
+        ]
+      }
+    },
+    {
+      "frame": 8,
+      "no": 16,
+      "name": "サトノワーグナー",
+      "kettonum": "2023100925",
+      "age": 3,
+      "jockey": "横山武",
+      "futan": null,
+      "ai": {
+        "win": 0.023804534596203,
+        "quinella": 0.1102700259857643,
+        "show": 0.1106831022085259
+      },
+      "ability": {
+        "recent3": 98,
+        "distance": 73.5,
+        "course": 79.9,
+        "evidence": {
+          "recent3Runs": 3,
+          "distanceN": 1,
+          "courseN": 1
+        }
+      },
+      "runningStyle": {
+        "status": "ok",
+        "runs": 3,
+        "nige": 74,
+        "senko": 26,
+        "sashi": 0,
+        "oikomi": 0,
+        "historyMaxDate": 20260802,
+        "sourceRaces": [
+          {
+            "raceId": "2026080201010408",
+            "corner": 2,
+            "fieldSize": 14,
+            "weight": 0.5
+          },
+          {
+            "raceId": "2026062803020206",
+            "corner": 2,
+            "fieldSize": 16,
+            "weight": 0.3
+          },
+          {
+            "raceId": "2026060605030103",
+            "corner": 3,
+            "fieldSize": 16,
+            "weight": 0.2
+          }
+        ]
+      }
+    }
+  ],
+  "join": {
+    "runners": 16,
+    "aiMatched": 16,
+    "aiMissing": [],
+    "abilityMatched": 16,
+    "abilityMissing": [],
+    "kettonumConflicts": []
+  },
+  "marketConnected": true,
+  "market": [
+    {
+      "no": 1,
+      "popularity": 11,
+      "odds": 20.7
+    },
+    {
+      "no": 2,
+      "popularity": 8,
+      "odds": 13.5
+    },
+    {
+      "no": 3,
+      "popularity": 12,
+      "odds": 23.2
+    },
+    {
+      "no": 4,
+      "popularity": 5,
+      "odds": 11.5
+    },
+    {
+      "no": 5,
+      "popularity": 13,
+      "odds": 28
+    },
+    {
+      "no": 6,
+      "popularity": 16,
+      "odds": 44.2
+    },
+    {
+      "no": 7,
+      "popularity": 1,
+      "odds": 5.3
+    },
+    {
+      "no": 8,
+      "popularity": 15,
+      "odds": 37.9
+    },
+    {
+      "no": 9,
+      "popularity": 5,
+      "odds": 11.5
+    },
+    {
+      "no": 10,
+      "popularity": 4,
+      "odds": 10
+    },
+    {
+      "no": 11,
+      "popularity": 9,
+      "odds": 18.8
+    },
+    {
+      "no": 12,
+      "popularity": 3,
+      "odds": 7.3
+    },
+    {
+      "no": 13,
+      "popularity": 14,
+      "odds": 33.3
+    },
+    {
+      "no": 14,
+      "popularity": 10,
+      "odds": 20.5
+    },
+    {
+      "no": 15,
+      "popularity": 5,
+      "odds": 11.5
+    },
+    {
+      "no": 16,
+      "popularity": 1,
+      "odds": 5.3
+    }
+  ],
+  "marketKind": "JRA_VAN_PRE_RACE_ODDS",
+  "marketSource": "JRA-VAN JV-Link O1 発走前単勝オッズ・人気",
+  "marketObservedAt": "2026-08-30T11:12:00+09:00",
+  "paceTendency": {
+    "slow": 22,
+    "middle": 37,
+    "high": 41,
+    "pressure": 10.39,
+    "coverage": 1,
+    "band": "Q5",
+    "calibrationRaces": 410
+  },
+  "verdict": "爆",
+  "updatedAt": "2026-08-30T11:13:19+09:00"
+}
